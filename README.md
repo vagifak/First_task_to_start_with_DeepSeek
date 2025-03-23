@@ -3,5 +3,4 @@
 
 ## Как запустить
 1. Установи зависимости: `pip install pandas matplotlib`.
-2. Скачай файл `diabetes.csv`.
-3. Запусти скрипт: `python diabetes_analysis.py`.
+2. Запусти скрипт: `python diabetes_analysis.py`.
